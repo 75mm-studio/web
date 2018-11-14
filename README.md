@@ -12,3 +12,6 @@ aws_secret_access_key = 0000000000000000000000000000000000000000
 ```
 $ sh publish.sh
 ```
+
+#### Reference
+- https://docs.aws.amazon.com/ko_kr/cli/latest/userguide/cli-multiple-profiles.html
