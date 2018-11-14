@@ -1,4 +1,5 @@
 # web
+이 리포지터리는 http://75mm.studio 홈페이지 코드입니다.
 
 #### 배포전 설정
 `~/.aws/credentials` 파일에 `75mm.studio` 프로파일이 존재해야 합니다.
