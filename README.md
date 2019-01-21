@@ -4,6 +4,9 @@
 #### Font
 - https://noonnu.cc 에서 나눔 스퀘어체
 
+#### 사진
+- 1900 x 1267
+
 #### 배포전 설정
 `~/.aws/credentials` 파일에 `75mm.studio` 프로파일이 존재해야 합니다.
 ```
