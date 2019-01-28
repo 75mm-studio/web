@@ -8,7 +8,9 @@
 - 1900 x 1267
 
 #### 배포전 설정
-`~/.aws/credentials` 파일에 `75mm.studio` 프로파일이 존재해야 합니다.
+- 키는 AWS 콘솔에서 발급 가능합니다.
+- `~/.aws/credentials` 파일에 `75mm.studio` 프로파일이 존재해야 합니다.
+
 ```
 [75mm.studio]
 aws_access_key_id = XXXXXXXXXXXXXXXXXXXX
