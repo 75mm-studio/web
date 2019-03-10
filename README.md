@@ -1,5 +1,6 @@
 # web
-이 리포지터리는 http://75mm.studio 홈페이지 코드입니다.
+
+이 리포지터리는 https://75mm.studio 홈페이지 코드입니다.
 
 #### 약속된 Font
 - https://noonnu.cc 에서 나눔 스퀘어체
