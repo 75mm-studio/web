@@ -8,8 +8,8 @@
 #### 사진
 - 1900 x 1267
 
-#### 배포전 설정
-- 키는 AWS 콘솔에서 발급 가능합니다.
+#### AWS Credentials setting
+- 키는 AWS IAM을 이용해서 관련된 개발자만 키를 발급합니다.
 - `~/.aws/credentials` 파일에 `75mm.studio` 프로파일이 존재해야 합니다.
 
 ```
@@ -18,7 +18,7 @@ aws_access_key_id = XXXXXXXXXXXXXXXXXXXX
 aws_secret_access_key = 0000000000000000000000000000000000000000
 ```
 
-#### 배포
+#### Publish
 index.html 파일을 수정후 배포시 터미널에서 아래처럼 타이핑 합니다.
 ```
 $ ./publish.sh
