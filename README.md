@@ -3,7 +3,7 @@
 이 리포지터리는 https://75mm.studio 홈페이지 코드입니다.
 
 #### 약속된 Font
-- https://noonnu.cc 에서 나눔 스퀘어체
+- 나눔 스퀘어체 : https://noonnu.cc
 
 #### 사진
 - 1900 x 1267
