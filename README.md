@@ -21,7 +21,7 @@ aws_secret_access_key = 0000000000000000000000000000000000000000
 #### 배포
 index.html 파일을 수정후 배포시 터미널에서 아래처럼 타이핑 합니다.
 ```
-$ sh publish.sh
+$ ./publish.sh
 ```
 
 #### Reference
