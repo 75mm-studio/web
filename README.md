@@ -2,6 +2,10 @@
 
 이 리포지터리는 https://75mm.studio 홈페이지 코드입니다.
 
+
+#### Admin Info
+- cloudfront URI : http://d2hb1kn7o7nyc.cloudfront.net
+
 #### 약속된 Font
 - 나눔 스퀘어체 : https://noonnu.cc
 
