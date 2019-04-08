@@ -15,8 +15,8 @@ body {
 }
 
 hr {
-  max-width: 50px;
-  border-width: 3px;
+  max-width: 100px;
+  border-width: 2px;
   border-color: #C2996E;
 }
 
