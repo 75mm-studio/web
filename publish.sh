@@ -1,2 +1,2 @@
 #!/bin/sh
-awless create s3object bucket=75mm.studio file=./index.html --aws-profile 75mm.studio
+aws s3 sync . s3://75mm.studio --acl public-read --profile 75mm.studio
