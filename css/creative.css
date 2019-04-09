@@ -121,7 +121,7 @@ img::-moz-selection {
   color: #C2996E;
 }
 
-#mainNav .navbar-nav > li.nav-item > a.nav-link.active,
+/*#mainNav .navbar-nav > li.nav-item > a.nav-link.active,*/
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus.active {
   color: #C2996E !important;
   background-color: transparent;
