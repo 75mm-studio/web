@@ -104,6 +104,11 @@ img::-moz-selection {
 	height: 180px;
 }
 
+#logo {
+  width: 256px;
+	height: 120px;
+}
+
 #mainNav {
   border-bottom: 1px solid rgba(33, 37, 41, 0.1);
   background-color: #333338;
@@ -174,6 +179,10 @@ header.masthead p {
   .vimeo {
   	width: 320px;
 	  height: 180px;
+  }
+  #logo {
+    width: 384px;
+    height: 180px;
   }
 }
 
