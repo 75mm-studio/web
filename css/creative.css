@@ -132,7 +132,7 @@ img::-moz-selection {
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link:hover,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover {
-  color: #fff;
+  color: rgb(227, 191, 154);
 }
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link.active,
