@@ -35,14 +35,14 @@ a:hover {
   color: #C2996E;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1,h2,h3,h4,h5,h6 {
   font-family: 'NanumSquare', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
+
+#copyright {
+  font-size: 0.7em;
+}
+
 
 .bg-primary {
   background-color: #C2996E !important;
@@ -211,6 +211,31 @@ header.masthead p {
 	  height: 432px;
   }
 }
+
+
+@media (min-width: 1800px) {
+  .vimeo {
+  	width: 1152px;
+	  height: 648px;
+  }
+}
+
+/* 2560 : imac */
+@media (min-width: 2500px) {
+  .vimeo {
+  	width: 1536px;
+	  height: 864px;
+  }
+}
+
+/* 3840 : 4k */
+@media (min-width: 3780px) {
+  .vimeo {
+  	width: 1536px;
+	  height: 864px;
+  }
+}
+
 
 .service-box {
   max-width: 400px;
