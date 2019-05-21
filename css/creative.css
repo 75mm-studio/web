@@ -43,7 +43,7 @@ a {
 }
 
 a:hover {
-  color: #333338 ;
+  color: #3b3b40;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -56,11 +56,11 @@ h1,h2,h3,h4,h5,h6 {
 
 
 .bg-primary {
-  background-color: #333338 !important;
+  background-color: #3b3b40 !important;
 }
 
 .bg-dark {
-  background-color: #212529 !important;
+  background-color: #3b3b40 !important;
 }
 
 .text-faded {
@@ -77,13 +77,13 @@ section {
 
 ::-moz-selection {
   color: #fff;
-  background: #212529;
+  background: #3b3b40;
   text-shadow: none;
 }
 
 ::selection {
   color: #fff;
-  background: #212529;
+  background: #3b3b40;
   text-shadow: none;
 }
 
@@ -113,8 +113,8 @@ img::-moz-selection {
 }
 
 #mainNav {
-  border-bottom: 1px solid rgba(33, 37, 41, 0.1);
-  background-color: #333338;
+  border-bottom: 1px solid #3b3b40;
+  background-color: #3b3b40;
   font-family: 'NanumSquare', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
@@ -162,7 +162,7 @@ header.masthead {
   /*background-image: url("../img/header.jpg");*/
   background-position: center center;
   background-size: cover;
-  background-color: #333338;
+  background-color: #3b3b40;
 }
 
 header.masthead hr {
@@ -278,7 +278,7 @@ header.masthead p {
   text-align: center;
   opacity: 0;
   color: #fff;
-  background: #333338;
+  background: #3b3b40;
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
 }
