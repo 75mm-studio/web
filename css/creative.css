@@ -228,32 +228,32 @@ header.masthead p {
     font-size: 4rem;
   }
   .vimeo {
-  	width: 768px;
-	  height: 432px;
+  	width: 1100px;
+	  height: 618px;
   }
 }
 
 
 @media (min-width: 1800px) {
   .vimeo {
-  	width: 1152px;
-	  height: 648px;
+  	width: 1700px;
+	  height: 956px;
   }
 }
 
 /* 2560 : imac */
 @media (min-width: 2500px) {
   .vimeo {
-  	width: 1536px;
-	  height: 864px;
+  	width: 1920px;
+	  height: 1080px;
   }
 }
 
 /* 3840 : 4k */
 @media (min-width: 3780px) {
   .vimeo {
-  	width: 1536px;
-	  height: 864px;
+  	width: 1920px;
+	  height: 1080px;
   }
 }
 
