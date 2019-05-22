@@ -15,12 +15,6 @@ body {
   background-color: #F0f0F1;
 }
 
-/*이미지를 미리 로딩해둔다.*/
-body:after{
-  display:none;
-  content: url("../img/cameraTracking.jpg") url("../img/objectTracking.jpg") url("../img/rotomation.jpg");
-}
-
 hr {
   max-width: 100px;
   border-width: 2px;
@@ -61,7 +55,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .quote {
-  color: #c5a972 ;
+  color: #dbad64 ;
 }
 
 .bg-primary {
