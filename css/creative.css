@@ -54,6 +54,9 @@ h1,h2,h3,h4,h5,h6 {
   font-size: 0.7em;
 }
 
+.quote {
+  color: #c5a972 ;
+}
 
 .bg-primary {
   background-color: #3b3b40 !important;
@@ -311,7 +314,7 @@ header.masthead p {
 .portfolio-box {
   position: relative;
   display: block;
-  max-width: 650px;
+  max-width: 400px;
   margin: 0 auto;
 }
 
