@@ -157,40 +157,62 @@ img::-moz-selection {
   background-color: transparent;
 }
 
+/*이미지를 미리 로딩해둔다.*/
+body:after{
+  display:none;
+  content: url("../img/cameraTracking.jpg") url("../img/objectTracking.jpg") url("../img/rotomation.jpg");
+}
+
 .matchmove01 {
-  background-image: url("../img/matchmove01.png");
+  background-image: url("../img/blink.svg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  transition: background-image 1s;
+}
+.matchmove01:hover {
+  background-image: url("../img/cameraTracking.jpg");
+  color: #fff;
 }
 
 .matchmove02 {
-  background-image: url("../img/matchmove02.png");
+  background-image: url("../img/blink.svg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  transition: background-image 1s;
+}
+.matchmove02:hover {
+  background-image: url("../img/objectTracking.jpg");
+  color: #fff;
 }
 
 .matchmove03 {
-  background-image: url("../img/matchmove03.png");
+  background-image: url("../img/blink.svg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  transition: background-image 1s;
+}
+.matchmove03:hover {
+  background-image: url("../img/rotomation.jpg");
+  color: #fff;
 }
 
 .onset01 {
-  background-image: url("../img/onset01.png");
+  background-image: url("../img/blink.svg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  
 }
 
 .onset02 {
-  background-image: url("../img/onset02.png");
+  background-image: url("../img/blink.svg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -198,7 +220,7 @@ img::-moz-selection {
 }
 
 .onset03 {
-  background-image: url("../img/onset03.png");
+  background-image: url("../img/blink.svg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
