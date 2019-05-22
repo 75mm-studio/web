@@ -15,6 +15,12 @@ body {
   background-color: #F0f0F1;
 }
 
+/*이미지를 미리 로딩해둔다.*/
+body:after{
+  display:none;
+  content: url("../img/cameraTracking.jpg") url("../img/objectTracking.jpg") url("../img/rotomation.jpg");
+}
+
 hr {
   max-width: 100px;
   border-width: 2px;
@@ -157,11 +163,6 @@ img::-moz-selection {
   background-color: transparent;
 }
 
-/*이미지를 미리 로딩해둔다.*/
-body:after{
-  display:none;
-  content: url("../img/cameraTracking.jpg") url("../img/objectTracking.jpg") url("../img/rotomation.jpg");
-}
 
 .matchmove01 {
   background-image: url("../img/blink.svg");
