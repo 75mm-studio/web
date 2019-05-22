@@ -14,6 +14,7 @@
 ### 사진
 - main : 1900 x 1267
 - thumbnail : 1300x700, 650x350
+- 매치무브, 온셋배경이미지 : 400x400
 
 ### AWS Credentials setting
 - 키는 AWS IAM을 이용해서 관련된 개발자만 키를 발급합니다.

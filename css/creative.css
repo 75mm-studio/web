@@ -154,7 +154,53 @@ img::-moz-selection {
   background-color: transparent;
 }
 
+.matchmove01 {
+  background-image: url("../img/matchmove01.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 
+.matchmove02 {
+  background-image: url("../img/matchmove02.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.matchmove03 {
+  background-image: url("../img/matchmove03.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.onset01 {
+  background-image: url("../img/onset01.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.onset02 {
+  background-image: url("../img/onset02.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.onset03 {
+  background-image: url("../img/onset03.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 
 header.masthead {
   padding-top: 10rem;
