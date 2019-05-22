@@ -236,7 +236,9 @@ header.masthead {
   background-size: cover;
   background-color: #3b3b40;
 }
-
+.img-fluid {
+  width: 100%;
+}
 header.masthead hr {
   margin-top: 30px;
   margin-bottom: 30px;
