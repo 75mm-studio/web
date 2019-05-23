@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30">
+    <desc iVinci="yes" version="4.6" gridStep="20" showGrid="no" snapToGrid="no" codePlatform="0"/>
+    <g id="Layer1" name="Layer 2" opacity="1">
+        <g id="Shape1">
+            <desc shapeID="1" type="0" basicInfo-basicType="0" basicInfo-roundedRectRadius="12" basicInfo-polygonSides="6" basicInfo-starPoints="5" bounding="rect(-23.4356,-36.5264,46.8711,73.0526)" text="" font-familyName="Helvetica" font-pixelSize="20" font-bold="0" font-underline="0" font-alignment="1" strokeStyle="0" markerStart="0" markerEnd="0" shadowEnabled="0" shadowOffsetX="0" shadowOffsetY="2" shadowBlur="4" shadowOpacity="160" blurEnabled="0" blurRadius="4" transform="matrix(-0.210552,-0.00187809,0.00187809,-0.210552,21.6083,15.059)" pers-center="0,0" pers-size="0,0" pers-start="0,0" pers-end="0,0" locked="0" mesh="" flag=""/>
+            <path id="shapePath1" d="M26.5263,12.2548 C26.597,12.973 26.7665,15.9878 24.5692,18.6124 C22.5154,21.0656 18.3699,23.0692 17.7363,22.6659 C17.5484,22.5464 17.4789,22.3722 17.7422,21.995 C18.1464,21.4161 19.2914,20.7835 19.9681,19.9168 C21.0859,18.4852 21.6762,17.0548 21.0833,17.0495 C18.4086,17.0256 16.6755,14.8418 16.6994,12.1672 C16.7232,9.49249 18.9108,7.34362 21.5854,7.36748 C24.2601,7.39133 26.2645,9.5929 26.5263,12.2548 Z" style="stroke:none;fill-rule:evenodd;fill:#daac69;fill-opacity:1;"/>
+        </g>
+        <g id="Shape2">
+            <desc shapeID="2" type="0" basicInfo-basicType="0" basicInfo-roundedRectRadius="12" basicInfo-polygonSides="6" basicInfo-starPoints="5" bounding="rect(-23.4356,-36.5264,46.8711,73.0526)" text="" font-familyName="Helvetica" font-pixelSize="20" font-bold="0" font-underline="0" font-alignment="1" strokeStyle="0" markerStart="0" markerEnd="0" shadowEnabled="0" shadowOffsetX="0" shadowOffsetY="2" shadowBlur="4" shadowOpacity="160" blurEnabled="0" blurRadius="4" transform="matrix(-0.210552,-0.00187809,0.00187809,-0.210552,8.39168,14.9411)" pers-center="0,0" pers-size="0,0" pers-start="0,0" pers-end="0,0" locked="0" mesh="" flag=""/>
+            <path id="shapePath2" d="M13.3097,12.137 C13.3803,12.8551 13.5498,15.8699 11.3525,18.4945 C9.29875,20.9478 5.15322,22.9513 4.51959,22.5481 C4.33175,22.4285 4.2622,22.2543 4.52557,21.8771 C4.92975,21.2982 6.07474,20.6656 6.7515,19.7989 C7.86921,18.3673 8.45949,16.9369 7.86662,16.9316 C5.19192,16.9077 3.45883,14.7239 3.48269,12.0493 C3.50655,9.3746 5.6941,7.22573 8.3688,7.24959 C11.0434,7.27344 13.0478,9.47501 13.3097,12.137 Z" style="stroke:none;fill-rule:evenodd;fill:#daac69;fill-opacity:1;"/>
+        </g>
+    </g>
+</svg>
