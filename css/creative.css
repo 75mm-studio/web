@@ -21,8 +21,17 @@ hr {
   border-color: #C2996E;
 }
 
+.eng {
+  display: none;
+}
+
 .text-gold {
   color: #C2996E;
+}
+
+.button_lang {
+  color: #FFFFFF;
+  border-color: #C2996E;
 }
 
 .custom-toggler.navbar-toggler {
