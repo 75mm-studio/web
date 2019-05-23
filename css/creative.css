@@ -166,8 +166,9 @@ img::-moz-selection {
   background-size: cover;
   transition: background-image 1s;
 }
+
 .matchmove01:hover {
-  background-image: url("../img/cameraTracking.jpg");
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.2) 0%, rgba(0,0,0,0.4)), url("../img/cameraTracking.jpg");
   color: #fff;
 }
 
@@ -180,7 +181,7 @@ img::-moz-selection {
   transition: background-image 1s;
 }
 .matchmove02:hover {
-  background-image: url("../img/objectTracking.jpg");
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.2) 0%, rgba(0,0,0,0.3)),  url("../img/objectTracking.jpg");
   color: #fff;
 }
 
@@ -193,7 +194,7 @@ img::-moz-selection {
   transition: background-image 1s;
 }
 .matchmove03:hover {
-  background-image: url("../img/rotomation.jpg");
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.2) 0%, rgba(0,0,0,0.6)), url("../img/rotomation.jpg");
   color: #fff;
 }
 
