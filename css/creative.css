@@ -204,7 +204,12 @@ img::-moz-selection {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  
+  transition: background-image 1s;
+}
+
+.onset01:hover {
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0.6)), url("../img/onsetEqu.jpg");
+  color: #fff;
 }
 
 .onset02 {
@@ -213,6 +218,12 @@ img::-moz-selection {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  transition: background-image 1s;
+}
+
+.onset02:hover {
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0.6)), url("../img/lidar.jpg");
+  color: #fff;
 }
 
 .onset03 {
@@ -221,6 +232,12 @@ img::-moz-selection {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  transition: background-image 1s;
+}
+
+.onset03:hover {
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0.6)), url("../img/layout.jpg");
+  color: #fff;
 }
 
 header.masthead {
