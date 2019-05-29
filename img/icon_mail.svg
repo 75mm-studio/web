@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="370.88" height="370.88">
+    <desc iVinci="yes" version="4.6" gridStep="20" showGrid="no" snapToGrid="no" codePlatform="0"/>
+    <g id="Layer1" name="Layer 1" opacity="1">
+        <g id="Shape1">
+            <desc shapeID="1" type="0" basicInfo-basicType="0" basicInfo-roundedRectRadius="12" basicInfo-polygonSides="6" basicInfo-starPoints="5" bounding="rect(-185.44,-119.28,370.88,238.56)" text="" font-familyName="" font-pixelSize="20" font-bold="0" font-underline="0" font-alignment="1" strokeStyle="0" markerStart="0" markerEnd="0" shadowEnabled="0" shadowOffsetX="0" shadowOffsetY="2" shadowBlur="4" shadowOpacity="160" blurEnabled="0" blurRadius="4" transform="matrix(1,0,0,1,185.44,185.44)" pers-center="0,0" pers-size="0,0" pers-start="0,0" pers-end="0,0" locked="0" mesh="" flag=""/>
+            <path id="shapePath1" d="M355.6,66.16 L15.28,66.16 C6.841,66.16 0,73.001 0,81.44 L0,289.44 C0,297.879 6.841,304.72 15.28,304.72 L355.6,304.72 C364.039,304.72 370.88,297.879 370.88,289.44 L370.88,81.44 C370.88,73.001 364.039,66.16 355.6,66.16 M15.8357,78.16 L355.26,78.16 C356.696,78.167 357.96,79.107 358.38,80.48 L185.44,188.164 L12.7157,80.48 C13.1357,79.107 14.3997,78.167 15.8357,78.16 M12.7296,94.8896 L135.91,172 L12.7296,270.15 L12.7296,94.8896 M358.397,288.877 C358.397,290.689 356.928,292.157 355.117,292.157 L15.5596,292.36 C13.7486,292.36 12.2796,290.891 12.2796,289.08 L12.2796,285.88 L147.44,179.643 L182.24,201.507 C184.195,202.74 186.685,202.74 188.64,201.507 L223.44,179.643 L358.397,285.677 L358.397,288.877 M358.165,270.165 L234.392,172.32 L358.165,95.5948 L358.165,270.165 Z" style="stroke:none;fill-rule:nonzero;fill:url(#linearGradientFill1);fill-opacity:1;"/><defs><linearGradient id="linearGradientFill1" gradientUnits="userSpaceOnUse" x1="173.256" y1="308.718" x2="181.798" y2="66.16"><stop offset="0" stop-color="#c19971" stop-opacity="1"/><stop offset="1" stop-color="#e8bb8c" stop-opacity="1"/></linearGradient></defs>
+        </g>
+    </g>
+</svg>
