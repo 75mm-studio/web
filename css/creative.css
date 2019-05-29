@@ -174,11 +174,13 @@ img::-moz-selection {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  background-position: center;
   transition: background-image 1s;
   color: #fff;
 }
 
-.onset01:hover {
+
+.onset01:hover, .onset01:active {
   background-image: url("../img/blink.svg");
   color: #000;
 }
@@ -189,11 +191,12 @@ img::-moz-selection {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  background-position: center;
   transition: background-image 1s;
   color: #fff;
 }
 
-.onset02:hover {
+.onset02:hover, .onset02:active {
   background-image: url("../img/blink.svg");
   color: #000;
 }
@@ -204,11 +207,12 @@ img::-moz-selection {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  background-position: center;
   transition: background-image 1s;
   color: #fff;
 }
 
-.onset03:hover {
+.onset03:hover, .onset03:active {
   background-image: url("../img/blink.svg");
   color: #000;
 }
@@ -219,11 +223,12 @@ img::-moz-selection {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  background-position: center;
   transition: background-image 1s;
   color: #fff;
 }
 
-.matchmove01:hover {
+.matchmove01:hover, .matchmove01:active {
   background-image: url("../img/blink.svg");
   color: #000;
 }
@@ -234,10 +239,11 @@ img::-moz-selection {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  background-position: center;
   transition: background-image 1s;
   color: #fff;
 }
-.matchmove02:hover {
+.matchmove02:hover, .matchmove02:active {
   background-image: url("../img/blink.svg");
   color: #000;
 }
@@ -248,10 +254,11 @@ img::-moz-selection {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  background-position: center;
   transition: background-image 1s;
   color: #fff;
 }
-.matchmove03:hover {
+.matchmove03:hover, .matchmove03:active {
   background-image: url("../img/blink.svg");
   color: #000;
 }
