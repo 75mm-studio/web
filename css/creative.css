@@ -169,98 +169,98 @@ img::-moz-selection {
 
 
 .onset01 {
-  background-image: url("../img/onsetEqu.jpg");
+  background-image: url("../img/blink.svg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   background-position: center;
   transition: background-image 1s;
-  color: #fff;
+  color: #000;
 }
 
 
 .onset01:hover, .onset01:active {
-  background-image: url("../img/blink.svg");
-  color: #000;
+  background-image: url("../img/onsetEqu.jpg");
+  color: #fff;
 }
 
 .onset02 {
-  background-image: url("../img/lidar.jpg");
+  background-image: url("../img/blink.svg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   background-position: center;
   transition: background-image 1s;
-  color: #fff;
+  color: #000;
 }
 
 .onset02:hover, .onset02:active {
-  background-image: url("../img/blink.svg");
-  color: #000;
+  background-image: url("../img/lidar.jpg");
+  color: #fff;
 }
 
 .onset03 {
-  background-image: url("../img/layout.jpg");
+  background-image: url("../img/blink.svg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   background-position: center;
   transition: background-image 1s;
-  color: #fff;
+  color: #000;
 }
 
 .onset03:hover, .onset03:active {
-  background-image: url("../img/blink.svg");
-  color: #000;
+  background-image: url("../img/layout.jpg");
+  color: #fff;
 }
 
 .matchmove01 {
-  background-image: url("../img/cameraTracking.jpg");
+  background-image: url("../img/blink.svg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   background-position: center;
   transition: background-image 1s;
-  color: #fff;
+  color: #000;
 }
 
 .matchmove01:hover, .matchmove01:active {
-  background-image: url("../img/blink.svg");
-  color: #000;
+  background-image: url("../img/cameraTracking.jpg");
+  color: #fff;
 }
 
 .matchmove02 {
-  background-image: url("../img/objectTracking.jpg");
+  background-image: url("../img/blink.svg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   background-position: center;
   transition: background-image 1s;
-  color: #fff;
+  color: #000;
 }
 .matchmove02:hover, .matchmove02:active {
-  background-image: url("../img/blink.svg");
-  color: #000;
+  background-image: url("../img/objectTracking.jpg");
+  color: #fff;
 }
 
 .matchmove03 {
-  background-image: url("../img/rotomation.jpg");
+  background-image: url("../img/blink.svg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   background-position: center;
   transition: background-image 1s;
-  color: #fff;
+  color: #000;
 }
 .matchmove03:hover, .matchmove03:active {
-  background-image: url("../img/blink.svg");
-  color: #000;
+  background-image: url("../img/rotomation.jpg");
+  color: #fff;
 }
 
 header.masthead {
