@@ -115,8 +115,8 @@ img::-moz-selection {
 }
 
 .vimeo {
-	width: 320px;
-  height: 180px;
+	width: 280px;
+  height: 157px;
 }
 
 
@@ -378,8 +378,7 @@ header.masthead p {
   height: 100%;
   text-align: center;
   opacity: 0;
-  color: #fff;
-  background: #3b3b40;
+  background: #fff;
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
 }
