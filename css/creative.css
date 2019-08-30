@@ -266,6 +266,7 @@ header.masthead {
   background-position: center center;
   background-size: cover;
   background-color: #3b3b40;
+  min-height: 650px;
 }
 .img-fluid {
   width: 100%;
