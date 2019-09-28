@@ -425,7 +425,7 @@ header.masthead p {
   font-weight: 700;
   text-transform: uppercase;
   border: none;
-  border-radius: 300px;
+  border-radius: 5px;
   font-family: 'NanumSquare', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 
@@ -434,13 +434,12 @@ header.masthead p {
 }
 
 .btn-primary {
-  background-color: #C2996E;
-  border-color: #C2996E;
+  background-color: rgba(194, 153, 110, 0.15) !important;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   color: #fff;
-  background-color: #C2996E !important;
+  background-color: rgba(194, 153, 110, 0.25) !important;
 }
 
 .btn-primary:active, .btn-primary:focus {
