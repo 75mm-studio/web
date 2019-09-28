@@ -16,6 +16,9 @@
 - thumbnail : 1300x700, 650x350
 - 매치무브, 온셋배경이미지 : 400x400
 
+### 이미지
+- svg 이미지는 레이어를 모두 합칠 것
+
 ### AWS Credentials setting
 - 키는 AWS IAM을 이용해서 관련된 개발자만 키를 발급합니다.
 - `~/.aws/credentials` 파일에 `75mm.studio` 프로파일이 존재해야 합니다.
