@@ -18,11 +18,11 @@ function langue(langueOn,langueOff){
         langueOn.classList.toggle('current_lang');
         langueOff.classList.toggle('current_lang');
     }
-    if(langueOn.innerHTML == '한글'){
+    if(langueOn.innerHTML == 'Kor'){
         afficher(korean_txt, nb_korean);
         cacher(english_txt, nb_english);
     }
-    else if(langueOn.innerHTML == 'English'){
+    else if(langueOn.innerHTML == 'Eng'){
         afficher(english_txt, nb_english);
         cacher(korean_txt, nb_korean);
     }
